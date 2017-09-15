@@ -2,11 +2,11 @@
   "name": "postgresql_backup_restore",
   "description": "very detailed description",
   "version": "0.1.0",
-  "homepage": "",
-  "author": "",
+  "homepage": "https://github.com/Li-Deng/postgresql_backup_restore",
+  "author": "Li-Deng",
   "licence": "",
   "repository": {
-    "url": "",
+    "url": "https://github.com/Li-Deng/postgresql_backup_restore.git",
     "type": "git"
   },
   "engines": {
@@ -29,8 +29,5 @@
   },
   "optionalDependencies": {},
   "keywords": [],
-  "private": false,
-  "scripts": {
-    "test": "./node_modules/mocha/bin/mocha --reporter spec"
-  }
+  "private": false
 }
