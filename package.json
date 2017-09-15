@@ -1,0 +1,36 @@
+{
+  "name": "postgresql_backup_restore",
+  "description": "very detailed description",
+  "version": "0.1.0",
+  "homepage": "",
+  "author": "",
+  "licence": "",
+  "repository": {
+    "url": "",
+    "type": "git"
+  },
+  "engines": {
+    "node": ">=v0.10.17"
+  },
+  "bugs": {
+    "url": ""
+  },
+  "dependencies": {
+    "async-method": "~0.1.1",
+    "ee-class": "1.0.x",
+    "ee-event-emitter": "0.1.x",
+    "ee-log": "0.3.x",
+    "ee-types": "0.1.x",
+    "es6-promise": "^2.1.1",
+    "install": "^0.1.8"
+  },
+  "devDependencies": {
+    "mocha": "1.17.x"
+  },
+  "optionalDependencies": {},
+  "keywords": [],
+  "private": false,
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --reporter spec"
+  }
+}
